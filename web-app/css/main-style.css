@@ -1,0 +1,49 @@
+/* 
+    Document   : main-css
+    Created on : 18.03.2013, 12:14:28
+    Author     : tt
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    margin: 10px auto;
+    width: 900px;
+    
+    
+    
+}
+html{
+    background-color: gray;
+    
+}
+#header{
+    background-color:white;
+    margin:10px 0;
+    padding:10px;
+}
+.round-corners{
+    border-radius: 3px;
+    
+}
+
+#log-in-panel{
+    width: 100%;
+    height:max-content;
+    border: 1px solid black;
+    padding: 5px;
+    
+    
+    
+}
+
+
+#content{
+    background-color: white;
+    height:auto;
+}
+.mini-header{
+    font-weight: bold;
+    margin: 2px;
+    
+}

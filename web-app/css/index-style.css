@@ -1,0 +1,29 @@
+/* 
+    Document   : index-style
+    Created on : 18.03.2013, 13:16:23
+    Author     : tt
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#presentation{
+    width:100%;
+    margin:5px;
+    height:200px;
+    font-size: 9em;
+    border: 1px solid black;   
+    
+    
+}
+#navigation-table{
+    width:600px;
+    height:600px; 
+    margin-left: 10px;
+}
+#navigation-table td {
+    width:33%;
+    height: 33%;
+    border:1px solid black;
+    margin:20px;
+    
+}

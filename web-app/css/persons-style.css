@@ -1,0 +1,83 @@
+/* 
+    Document   : personsStyle
+    Created on : 31.01.2013, 14:22:11
+    Author     : tt
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.datalist-table{
+    border:0px solid black;
+    background-color:#f0f0f0;
+    border-radius:15px;  
+    -moz-border-radius:15px;
+    -khtml-border-radius:15px; 
+    -webkit-border-radius: 15px;
+    -o-border-radius:15px;
+    
+    width: 100%;
+    margin:10px 0px;
+}
+.datalist-table tr{
+    font-size:small;
+    
+}
+.ui-datalist-data{
+    padding:0px;
+    margin:0px; 
+}
+.ui-datalist-item{
+    height:70px;
+    padding:2px 1px;
+    margin: 2px 1px;
+    list-style: none;
+}
+.ui-datalist-item a:hover{
+    color:#3333ff;
+    
+}
+
+.nameColumn em{
+    font-size:80%;
+    color: #999999;
+    
+   
+    font-weight: normal;
+}
+.datalist-table a{
+    color:#000099;
+    text-decoration: none;
+    
+    font-weight: bold;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.nameColumn{
+    width:50%;
+    font-size:110%;
+    
+    
+}
+.phoneColumn{
+    width:40%;
+    
+}
+.emailColumn{
+    width:10%;
+    
+}
+.phone{
+    background-image: url("../images/icon-phone.png");
+    background-repeat: no-repeat;
+    padding-left:20px;
+    
+}
+
+.ui-datalist-content{
+    border: 0px solid black !important;
+    
+}
+.ui-panel{
+    
+       border: 0px solid black !important;
+}

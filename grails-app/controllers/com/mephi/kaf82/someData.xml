@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+  <person FIO="Щедровицкий Петр Георгиевич" foto="P_Shchedrovitskiy.jpg" 
+          phone="" email="kaf82@mephi.ru" 
+          degree="Кандидат философских наук, заместитель директора Института философии РАН, советник гендиректора госкорпорации «Росатом»" 
+          position="Заведующий кафедрой">
+    >
+    <publich>Публикации asd</publich>
+    <career>career</career>
+    <profile>Профиль</profile>
+  </person>
+  <person FIO="Василий Василиич"  foto="P_Shchedrovitskiy.jpg"
+          phone="+7 903 777 41 25" email="lalalala@mephi.ru"
+          degree="Программист"
+          position="Программист">
+    <publich>Публикации</publich>
+    <career>career3</career>
+    <profile>Профиль</profile>
+  </person>
+  
+</persons>
